@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Tanay Palkandwar
+# 👋 Hi there, I'm Sakib Maniyar
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </div>
