@@ -1,7 +1,8 @@
 
 # 👋 Hi there, I'm Sakib Maniyar
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Developer;DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </div>
 # 💫 About Me:
 <br>🔭 I’m currently working on<br>Building full-stack Java applications using Spring Boot, React, and SQL. I'm also sharpening my DSA skills with LeetCode and GFG.<br><br>🤝 I’m looking to collaborate on<br>Open-source Java or React projects, or any backend development challenges where I can contribute and learn.<br><br>🧠 I’m looking for help with<br>Advanced Spring Boot configurations and optimizing SQL queries for better performance.<br><br>🌱 I’m currently learning<br>System design fundamentals and deep-diving into microservices architecture.<br><br>💬 Ask me about<br>Java, Spring Boot, Hibernate, React, DSA, or how to get started with competitive programming.<br><br>⚡ Fun fact<br>I once debugged a stubborn C++ bug at 2 AM and it turned out to be a missing semicolon. Still worth it.
